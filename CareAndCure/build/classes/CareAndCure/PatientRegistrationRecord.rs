@@ -1,0 +1,8 @@
+PatientRegistrationRecord
+CareandCure.PatientRegistrationRecord$1
+CareandCure.PatientRegistrationRecord$2
+CareandCure.PatientRegistrationRecord$3
+PatientRegistrationRecord$3
+PatientRegistrationRecord$2
+CareandCure.PatientRegistrationRecord
+PatientRegistrationRecord$1
